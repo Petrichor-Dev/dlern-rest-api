@@ -1,4 +1,3 @@
-# ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
+# Dlern Rest Api
+Rest api untuk aplikasi belajar bahasa jerman
 
-My alternate version https://github.com/ardisaurus/old-rest-ci
